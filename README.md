@@ -6,4 +6,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## 功能描述
 
 1. 从页面输入内容提交后, 便可将内容显示在输入框下方的列表里面；
-2. 点击列表里面对应的内容时，可将对应内容移除
+2. 点击列表里面的内容时，可将对应内容移除
